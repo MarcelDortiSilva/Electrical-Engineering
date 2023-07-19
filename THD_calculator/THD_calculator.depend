@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687714510 source:c:\users\marce\documents\c_programming\thd_calculator\thd_calculator.c
+	<stdio.h>
+	<math.h>
+
