@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704643869 source:c:\users\marce\documents\c_programming\electrictal_config_structure\electrical_config_structure.c
+	<stdio.h>
+	<stdlib.h>
+
